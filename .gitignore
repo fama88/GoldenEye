@@ -1,0 +1,12 @@
+Content/StarterContent/
+Content/FirstPerson/
+Intermediate/
+Saved/
+Binaries/
+GoldenEye.VC.VC.opendb
+GoldenEye.VC.db
+GoldenEye.sln
+.vs/
+Resources/
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
